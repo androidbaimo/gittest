@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void init(){
      Log.i("dsa","dsad");
+        Log.v("aaa","dsad");
     }
 }
